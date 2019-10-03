@@ -1,0 +1,1 @@
+This file was created by Node.js. And this is extra information with the use of my new tool appendFileSync
